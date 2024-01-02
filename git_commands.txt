@@ -6,3 +6,7 @@
 -------> Commit( git commit -m "message typed here") 
 -> check status (git status)
 -------> Push (git push origin main)
+
+
+To get file from github to VS code
+--------> git pull
