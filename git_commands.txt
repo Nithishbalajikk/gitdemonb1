@@ -8,5 +8,14 @@
 -------> Push (git push origin main)
 
 
+------->[ git add .] is used to add multiple file 
+
+ 
 To get file from github to VS code
 --------> git pull
+
+
+How to create folder in local and make that into another repo in  git hub 
+
+--------> after creating folder make that into git folder 
+            -> git init - used to initalize empty git repository
