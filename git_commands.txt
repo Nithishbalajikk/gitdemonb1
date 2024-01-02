@@ -1,0 +1,8 @@
+-> Creating in local
+-> (untracked - U) 
+------->  Add ( git add filename )
+-> (Added - A ) 
+-> check status (git status)
+-------> Commit( git commit -m "message typed here") 
+-> check status (git status)
+-------> Push (git push origin main)
