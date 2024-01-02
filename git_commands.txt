@@ -19,3 +19,13 @@ How to create folder in local and make that into another repo in  git hub
 
 --------> after creating folder make that into git folder 
             -> git init - used to initalize empty git repository
+       -> git add
+       -> git  commit
+want to create a repository in GITHUB -> and in VS code  use this command to set origin
+     ->  git remote add origin https://github.com/Nithishbalajikk/gitdemonb2.git
+check the branch name 
+    -> git branch  
+It will return as Master so change that into main or some other name
+   -> git branch -M main
+And now we can push that 
+    -> git push 
