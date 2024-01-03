@@ -7,8 +7,8 @@
 -> check status (git status)
 -------> Push (git push origin main)
 
-
-------->[ git add .] is used to add multiple file 
+NOTE:
+------->[ git add .] is used to add and stage multiple file 
 
  
 To get file from github to VS code
