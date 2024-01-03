@@ -29,3 +29,20 @@ It will return as Master so change that into main or some other name
    -> git branch -M main
 And now we can push that 
     -> git push 
+
+
+How to add new branch in same repository
+1-> In github create branch from main 
+2-> In vs code git pull
+3-> In vs code git branch -a ( shows all the branches )
+4-> To choose the sub branch we created use this command  
+             git checkout branchname
+5-> In vs code now we can work on the new branch we created 
+NOTE: changes made in sub branch will not be reflected in main branch 
+
+
+
+How to merge Main branch and sub branch 
+NOTE: you should be in main branch to merge with subbranches
+1-> git merge Subbranchname
+2-> git push ( to make the changes reflect in GITHUB)
