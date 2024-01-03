@@ -46,3 +46,9 @@ How to merge Main branch and sub branch
 NOTE: you should be in main branch to merge with subbranches
 1-> git merge Subbranchname
 2-> git push ( to make the changes reflect in GITHUB)
+
+PULL REQUEST 
+
+NOTE: we can or should not use MERGE main and subbranches so they introduced PULL REQUEST
+
+
